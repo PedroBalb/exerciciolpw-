@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>listas</title>
+  </head>
+  <body>
+    <h1>Lista de ingredientes</h1>
+    <ul>
+      <li>Farinha</li>
+      <li>Açúcar</li>
+      <li>Ovos</li>
+      <li>Leites</li>
+      <li>Fermentos</li>
+    </ul>
+    <h1>Passos para higienizar</h1>
+    <ol>
+      <li>Abrir a toerneira</li>
+      <li>Molhar as mãos</li>
+      <li>Aplicar sabão</li>
+      <li>Esfregar bem</li>
+      <li>Enxaguar</li>
+      <li>Secar com toalha</li>
+    </ol>
+  </body>
+</html>
